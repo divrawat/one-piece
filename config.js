@@ -1,6 +1,6 @@
 
-export const DOMAIN = 'http://localhost:3000';
-// export const DOMAIN = 'https://www.vinlandsagamanga.in.net';
+// export const DOMAIN = 'http://localhost:3000';
+export const DOMAIN = 'https://www.onepiecemanga.in.net';
 
 
 export const MANGA_DESCRIPTION = `<a href="${DOMAIN}"><u>One Piece</u></a> is a Japanese anime about Monkey D. Luffy, a young pirate with rubber-like abilities gained from a Devil Fruit. He dreams of becoming the Pirate King by finding the legendary treasure, One Piece. Luffy gathers a diverse crew, the Straw Hat Pirates, and together they face powerful enemies and explore the perilous Grand Line, experiencing action, adventure, and humor along the way.`;
