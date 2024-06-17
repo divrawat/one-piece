@@ -120,6 +120,7 @@ export const chaptersData = [
         "chapterNumber": "0",
         "numImages": 51
     },
+    /*
     {
         "chapterNumber": "1",
         "numImages": 54
@@ -4608,4 +4609,5 @@ export const chaptersData = [
         "chapterNumber": "1107",
         "numImages": 15
     }
+        */
 ];
